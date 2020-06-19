@@ -1,0 +1,13 @@
+encode
+SignatureAlgorithm.HS256
+SignatureAlgorithm.HS256
+
+decode
+io.jsonwebtoken.Claims
+
+
+oferecemos paa visa uma api para visa. Sao tres servicoes baseados 
+
+Charger back =  verificar se o cartao que esta sendo utilizado é realmente do pessoa que esta utilizando. Ex>Compra Mercado Livre,IFood
+
+000051987510496
